@@ -1,4 +1,4 @@
-# Sort array by string length
+# Sort Array by String Length
 
 ### Instructions
 
