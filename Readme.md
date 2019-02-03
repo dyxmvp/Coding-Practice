@@ -1,3 +1,3 @@
-![](demo/demo1.gif)  |  ![](demo/demo2.gif)
+![](demos/demo1.gif)  |  ![](demos/demo2.gif)
 :-------------------------:|:-------------------------:
-![](demo/demo3.gif)  |  ![](demo/demo4.gif)
+![](demos/demo3.gif)  |  ![](demos/demo4.gif)
