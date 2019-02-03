@@ -1,3 +1,3 @@
-![](demos/demo1.gif)   |![](demos/demo2.gif)
+![](https://github.com/dyxmvp/Demos/blob/master/seq-Explorer/demo1.gif)   |![](https://github.com/dyxmvp/Demos/blob/master/seq-Explorer/demo2.gif)
 -------------------------|-------------------------
-![](demos/demo3.gif)   |![](demos/demo4.gif)
+![](https://github.com/dyxmvp/Demos/blob/master/seq-Explorer/demo3.gif)   |![](https://github.com/dyxmvp/Demos/blob/master/seq-Explorer/demo4.gif)
